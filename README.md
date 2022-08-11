@@ -8,9 +8,11 @@
 BNB Systems is a company that provides services in software development. Our mission is to design, build and scale your solutions
 
 ## Get Started
- &emsp;&emsp;[Learn more abous us on our website](https://bnbsystems.org/) 
- &emsp;&emsp;[Join our team](https://bnbsystems.org/careers/)
- &emsp;&emsp;[Explore our public projects](https://github.com/orgs/bnbsystems/repositories)
+* [Learn more abous us on our website](https://bnbsystems.org/)
+
+* [Join our team](https://bnbsystems.org/careers/)
+
+* [Explore our public projects](https://github.com/orgs/bnbsystems/repositories)
 
 ## Our Services
 * [.NET](https://dotnet.microsoft.com/)/[R](https://www.r-project.org/) – Every day We create software based on various programming languages. Most often in .NET, but also in R, python and javascript.

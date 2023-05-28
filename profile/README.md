@@ -1,11 +1,13 @@
-# BNB Systems
+# BNB Systems ♥ Open Source
 <p align="center">
   <img src="https://github.com/bnbsystems/.github/blob/master/images/baner.png"/>
 </p>
 
+![GitHub Org's stars](https://img.shields.io/github/stars/bnbsystems?style=social) 
+
 # About Us
 
-BNB Systems is a company that provides services in software development. Our mission is to design, build and scale your solutions
+BNB Systems is a company that provides services in software development. Our mission is to design, build and scale solutions.
 
 ## Get Started
 * [Learn more abous us on our website](https://bnbsystems.org/)

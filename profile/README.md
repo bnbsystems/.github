@@ -1,4 +1,4 @@
-# BNB Systems ♥ Open Source
+# BnB Systems ♥ Open Source
 <p align="center">
   <img src="https://github.com/bnbsystems/.github/blob/master/images/baner.png"/>
 </p>
